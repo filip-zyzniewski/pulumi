@@ -1,1 +1,2 @@
 import "./pulumi"
+import "./pictures"
